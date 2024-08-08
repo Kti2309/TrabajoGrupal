@@ -7,7 +7,9 @@ body {
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
-    align-self:center;
+    display: block;
+    margin: auto;
+
 }
 
 .link-button {
