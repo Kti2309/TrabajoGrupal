@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(255, 255, 165);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightcyan
 }
 
 .image{
@@ -8,6 +9,7 @@ body {
     height: 400px;
     display: block;
     margin: auto;
+
 }
 
 .link-button {
@@ -18,4 +20,8 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+}
+
+h1{
+    text-align:center;
 }
